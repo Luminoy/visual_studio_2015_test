@@ -3,6 +3,7 @@
 
 #include "stdafx.h"
 
+#include <Windows.h>
 
 int main()
 {
